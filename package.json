@@ -6,18 +6,18 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sathirapramudith123/pixelssuite-playwrite-testing.git"
+    "url": "git+https://github.com/sathirapramudith123/pixelssuite_Playwright_testing.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/sathirapramudith123/pixelssuite-playwrite-testing/issues"
+    "url": "https://github.com/sathirapramudith123/pixelssuite_Playwright_testing/issues"
   },
-  "homepage": "https://github.com/sathirapramudith123/pixelssuite-playwrite-testing#readme",
+  "homepage": "https://github.com/sathirapramudith123/pixelssuite_Playwright_testing#readme",
   "devDependencies": {
     "@playwright/test": "^1.59.1",
-    "@types/node": "^25.5.0"
+    "@types/node": "^25.5.2"
   }
 }
