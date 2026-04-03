@@ -1,1 +1,1 @@
-# pixelssuite-playwrite-testing
+Playwright
